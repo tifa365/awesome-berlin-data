@@ -10,7 +10,16 @@ Have something to add or change? Open a [pull request](../../pulls) or [issue](.
 
 ### Table of Contents
 
+- [Art & Street Culture](#art--street-culture)
 - [Education & Schools](#education--schools)
+
+------------------------------
+
+## Art & Street Culture
+
+Data and projects documenting Berlin's vibrant street art and urban culture.
+
+- [Korkmännchen Berlin](https://github.com/tifa365/korkmaennchen_berlin) - Comprehensive dataset of 220+ locations of Korkmännchen (cork figure street yogis) across Berlin. Includes GPS coordinates, street addresses, and 81 openly licensed photos from Wikimedia Commons of these tiny urban art pieces created by artist Josef Foos since 2006.
 
 ------------------------------
 
