@@ -10,7 +10,15 @@ Have something to add or change? Open a [pull request](../../pulls) or [issue](.
 
 ### Table of Contents
 
-*Coming soon! Categories and resources will be added here.*
+- [Education & Schools](#education--schools)
+
+------------------------------
+
+## Education & Schools
+
+Data and tools related to schools and education in Berlin (and Germany).
+
+- [jedeschule-scraper](https://github.com/Datenschule/jedeschule-scraper) - Scrapers for German school data across all federal states, providing a unified data format. Includes school locations, types, and metadata. Data available via API at [jedeschule.codefor.de](https://jedeschule.codefor.de/).
 
 ------------------------------
 
