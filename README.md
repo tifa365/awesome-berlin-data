@@ -12,6 +12,8 @@ Have something to add or change? Open a [pull request](../../pulls) or [issue](.
 
 - [Art & Street Culture](#art--street-culture)
 - [Education & Schools](#education--schools)
+- [Open Data Tools & APIs](#open-data-tools--apis)
+- [Transportation & Mobility](#transportation--mobility)
 
 ------------------------------
 
@@ -29,6 +31,23 @@ Data and projects documenting Berlin's vibrant street art and urban culture.
 Data and tools related to schools and education in Berlin (and Germany).
 
 - [jedeschule-scraper](https://github.com/Datenschule/jedeschule-scraper) - Scrapers for German school data across all federal states (including Berlin), providing a unified data format. Includes school locations, types, and metadata. Data available via API at [jedeschule.codefor.de](https://jedeschule.codefor.de/).
+
+------------------------------
+
+## Open Data Tools & APIs
+
+Tools, APIs, and applications for accessing and visualizing Berlin's open data.
+
+- [Technologiestiftung Berlin](https://github.com/technologiestiftung) - Organization maintaining countless open-source projects for Berlin including interactive maps, data visualizations, APIs for trees, air quality, parliamentary data, neighborhood analysis tools, and WFS data explorers. All projects use Berlin's open data and are publicly available under open licenses.
+
+------------------------------
+
+## Transportation & Mobility
+
+Data, maps, and tools related to Berlin's public transportation and mobility infrastructure.
+
+- [Berlin S-Bahn Ring GeoJSON](https://gist.github.com/derhuerst/9a3fca091cb1d48ad0b28743f86676c4) - GeoJSON data for the Berlin S-Bahn Ringbahn (circular railway line). Useful for mapping applications and geographic analysis of Berlin's iconic ring line.
+- [Berliner Tarifkarte](https://github.com/technologiestiftung/tarifkarte) - Interactive map visualizing Berlin's public transport fare zones (A, B, C). Shows exactly where fare zone boundaries run and which stations are reachable with different ticket types. Built with Next.js using open VBB (Verkehrsverbund Berlin-Brandenburg) GTFS data.
 
 ------------------------------
 
@@ -52,4 +71,4 @@ To add a new entry:
 
 This list is maintained by the community and aims to be a comprehensive resource for anyone interested in Berlin's open data ecosystem. Listing of a project/resource does not imply endorsement.
 
-Last updated: 2025-10-19
+Last updated: 2025-10-21
