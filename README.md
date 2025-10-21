@@ -12,6 +12,7 @@ Have something to add or change? Open a [pull request](../../pulls) or [issue](.
 
 - [Art & Street Culture](#art--street-culture)
 - [Education & Schools](#education--schools)
+- [Environment & Nature](#environment--nature)
 - [Maps & Visualizations](#maps--visualizations)
 - [Open Data Tools & APIs](#open-data-tools--apis)
 - [Transportation & Mobility](#transportation--mobility)
@@ -33,6 +34,14 @@ Data and projects documenting Berlin's vibrant street art and urban culture.
 Data and tools related to schools and education in Berlin (and Germany).
 
 - [jedeschule-scraper](https://github.com/Datenschule/jedeschule-scraper) - Scrapers for German school data across all federal states (including Berlin), providing a unified data format. Includes school locations, types, and metadata. Data available via API at [jedeschule.codefor.de](https://jedeschule.codefor.de/).
+
+------------------------------
+
+## Environment & Nature
+
+Environmental data and applications related to Berlin's natural spaces and sustainability.
+
+- [Badegewässer Berlin](https://www.berlin.de/lageso/gesundheit/gesundheitsschutz/badegewaesser/liste-der-badestellen/) - Official data from LAGeSo (State Office for Health and Social Affairs) providing daily updates on water quality at Berlin's public swimming locations. Includes information on water quality measurements, accessibility, and amenities at bathing spots across the city.
 
 ------------------------------
 
