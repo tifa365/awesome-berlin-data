@@ -71,6 +71,7 @@ Tools, APIs, and applications for accessing and visualizing Berlin's open data.
 
 - [Berlin Open Data Portal](https://daten.berlin.de/) - Official open data portal of Berlin containing thousands of datasets from various governmental departments. Includes data on demographics, environment, transportation, urban planning, culture, and more. Datasets are available in multiple formats (CSV, JSON, XML, etc.) with APIs for programmatic access.
 - [Berlin Open Data Metadata Quality Assessment](https://github.com/tifa365/berlin_opendata_assesment) - Python tool that evaluates metadata quality of Berlin's Open Data Portal using FAIR principles (Findable, Accessible, Interoperable, Reusable). Based on opendata.swiss methodology, adapted for Berlin's DCAT-AP.de schema. Generates quality scores and ratings across five dimensions.
+- [Berlin Open Data Starter Code](https://github.com/tifa365/starter-code-open_data_berlin) - Preconfigured Python Jupyter Notebooks and R Markdown files for all CSV datasets on Berlin Open Data Portal. Each file comes with metadata, descriptions, data links, and starter code. One-click opening in Google Colab supported.
 - [Technologiestiftung Berlin](https://github.com/technologiestiftung) - Organization maintaining countless open-source projects for Berlin including interactive maps, data visualizations, APIs for trees, air quality, parliamentary data, neighborhood analysis tools, and WFS data explorers. All projects use Berlin's open data and are publicly available under open licenses.
 
 ------------------------------
