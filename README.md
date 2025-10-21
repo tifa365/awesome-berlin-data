@@ -61,6 +61,7 @@ Interactive maps and visual applications for exploring Berlin.
 
 - 🎨 [Kiezcolors](https://github.com/technologiestiftung/kiezcolors) - Interactive map-based tool that generates postcards showing land-use distribution in any Berlin neighborhood. Select a location and see how space is divided between categories like traffic, nature, water, residential, and recreation using ALKIS open data.
 - 📸 [Luftbilder Berlin](https://github.com/codeforberlin/luftbilder.berlin.codefor.de) - Web application displaying historical aerial photographs of Berlin from 2004-2022 (and 1928). Search by address to observe how the city has changed over time at any location. Data sourced from Berlin's FIS-Broker.
+- 🗺️ [OSM Berlin & Verkehrswende](https://github.com/osmberlin) - Organization hosting OpenStreetMap projects for sustainable transport and Berlin/Brandenburg. Includes parking data processing, traffic sign tools, street space maps, and Mapillary street coverage analysis. Active community with monthly meetups.
 - 🎄 [WeihnachtsmarktFinder](https://github.com/technologiestiftung/weihnachtsmarktkarte) - Interactive map of Christmas markets in Berlin with filters for opening times, entry fees, special attractions, and ÖPNV proximity. Based on open data from the Senate Department for Economics, Energy and Public Enterprises.
 
 ------------------------------
