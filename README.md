@@ -12,8 +12,10 @@ Have something to add or change? Open a [pull request](../../pulls) or [issue](.
 
 - [Art & Street Culture](#art--street-culture)
 - [Education & Schools](#education--schools)
+- [Maps & Visualizations](#maps--visualizations)
 - [Open Data Tools & APIs](#open-data-tools--apis)
 - [Transportation & Mobility](#transportation--mobility)
+- [Urban Planning & Land Use](#urban-planning--land-use)
 
 ------------------------------
 
@@ -31,6 +33,16 @@ Data and projects documenting Berlin's vibrant street art and urban culture.
 Data and tools related to schools and education in Berlin (and Germany).
 
 - [jedeschule-scraper](https://github.com/Datenschule/jedeschule-scraper) - Scrapers for German school data across all federal states (including Berlin), providing a unified data format. Includes school locations, types, and metadata. Data available via API at [jedeschule.codefor.de](https://jedeschule.codefor.de/).
+
+------------------------------
+
+## Maps & Visualizations
+
+Interactive maps and visual applications for exploring Berlin.
+
+- [Kiezcolors](https://github.com/technologiestiftung/kiezcolors) - Interactive map-based tool that generates postcards showing land-use distribution in any Berlin neighborhood. Select a location and see how space is divided between categories like traffic, nature, water, residential, and recreation using ALKIS open data.
+- [Luftbilder Berlin](https://github.com/codeforberlin/luftbilder.berlin.codefor.de) - Web application displaying historical aerial photographs of Berlin from 2004-2022 (and 1928). Search by address to observe how the city has changed over time at any location. Data sourced from Berlin's FIS-Broker.
+- [WeihnachtsmarktFinder](https://github.com/technologiestiftung/weihnachtsmarktkarte) - Interactive map of Christmas markets in Berlin with filters for opening times, entry fees, special attractions, and ÖPNV proximity. Based on open data from the Senate Department for Economics, Energy and Public Enterprises.
 
 ------------------------------
 
