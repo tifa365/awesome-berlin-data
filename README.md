@@ -44,6 +44,7 @@ Environmental data and applications related to Berlin's natural spaces and susta
 
 - 🏊 [Badegewässer Berlin](https://www.berlin.de/lageso/gesundheit/gesundheitsschutz/badegewaesser/liste-der-badestellen/) - Official data from LAGeSo (State Office for Health and Social Affairs) providing daily updates on water quality at Berlin's public swimming locations. Includes information on water quality measurements, accessibility, and amenities at bathing spots across the city.
 - ⛲ [Berliner Trinkbrunnen Analyse](https://github.com/tifa365/berliner_trinkbrunnen_analyse) - Interactive maps analyzing Berlin's drinking fountains. Compares data from Berliner Wasserbetriebe (BWB) with OpenStreetMap, providing detailed analysis and visualization of public water fountain locations across the city.
+- 🌳 [Gieß den Kiez](https://github.com/technologiestiftung/giessdenkiez-de) - Interactive platform for citizen participation in watering Berlin's urban trees. Shows almost all street and park trees with water requirements, age, and species data. Users can adopt trees, mark them as watered, and track watering activities. Open-source project by Technologiestiftung Berlin, adapted by multiple cities.
 
 ------------------------------
 
