@@ -68,6 +68,7 @@ Tools, APIs, and applications for accessing and visualizing Berlin's open data.
 
 Data, maps, and tools related to Berlin's public transportation and mobility infrastructure.
 
+- [awesome-berlin-transit](https://github.com/tifa365/awesome-berlin-transit) - Comprehensive collection of 87+ open-source tools, APIs, and datasets for Berlin public transport (VBB/BVG). Includes REST APIs, GTFS datasets, real-time monitoring tools, transit map generators, and much more by @derhuerst and others.
 - [Berlin S-Bahn Ring GeoJSON](https://gist.github.com/derhuerst/9a3fca091cb1d48ad0b28743f86676c4) - GeoJSON data for the Berlin S-Bahn Ringbahn (circular railway line). Useful for mapping applications and geographic analysis of Berlin's iconic ring line.
 - [Berliner Tarifkarte](https://github.com/technologiestiftung/tarifkarte) - Interactive map visualizing Berlin's public transport fare zones (A, B, C). Shows exactly where fare zone boundaries run and which stations are reachable with different ticket types. Built with Next.js using open VBB (Verkehrsverbund Berlin-Brandenburg) GTFS data.
 
