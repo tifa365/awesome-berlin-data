@@ -13,6 +13,7 @@ Have something to add or change? Open a [pull request](../../pulls) or [issue](.
 - [Art & Street Culture](#art--street-culture)
 - [Education & Schools](#education--schools)
 - [Environment & Nature](#environment--nature)
+- [Government & Politics](#government--politics)
 - [Maps & Visualizations](#maps--visualizations)
 - [Open Data Tools & APIs](#open-data-tools--apis)
 - [Transportation & Mobility](#transportation--mobility)
@@ -42,6 +43,14 @@ Data and tools related to schools and education in Berlin (and Germany).
 Environmental data and applications related to Berlin's natural spaces and sustainability.
 
 - [Badegewässer Berlin](https://www.berlin.de/lageso/gesundheit/gesundheitsschutz/badegewaesser/liste-der-badestellen/) - Official data from LAGeSo (State Office for Health and Social Affairs) providing daily updates on water quality at Berlin's public swimming locations. Includes information on water quality measurements, accessibility, and amenities at bathing spots across the city.
+
+------------------------------
+
+## Government & Politics
+
+Tools and data related to Berlin's government, parliament, and political processes.
+
+- [Parla](https://github.com/technologiestiftung/parla-frontend) - AI-powered search tool for Berlin parliamentary documents. Makes 11,000+ written requests (Schriftliche Anfragen) and main committee procedures searchable using large language models. Provides answers with source references from the PARDOK parliamentary documentation system. Developed by CityLAB Berlin.
 
 ------------------------------
 
