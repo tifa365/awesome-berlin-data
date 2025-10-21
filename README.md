@@ -52,6 +52,7 @@ Environmental data and applications related to Berlin's natural spaces and susta
 
 Tools and data related to Berlin's government, parliament, and political processes.
 
+- 🎭 [Fairgnügen](https://github.com/technologiestiftung/fairgnuegen) - Searchable database of free or reduced-price cultural, sports, educational, and leisure activities for Berlin residents receiving social benefits. Features map-based discovery with filters for event location, discount type, and target groups. Promotes social participation through voluntary Berlin state services.
 - 🏛️ [Parla](https://github.com/technologiestiftung/parla-frontend) - AI-powered search tool for Berlin parliamentary documents. Makes 11,000+ written requests (Schriftliche Anfragen) and main committee procedures searchable using large language models. Provides answers with source references from the PARDOK parliamentary documentation system. Developed by CityLAB Berlin.
 
 ------------------------------
