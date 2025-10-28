@@ -14,6 +14,7 @@ Have something to add or change? Open a [pull request](../../pulls) or [issue](.
 - [Education & Schools](#education--schools)
 - [Environment & Nature](#environment--nature)
 - [Government & Politics](#government--politics)
+- [Housing & Social](#housing--social)
 - [Maps & Visualizations](#maps--visualizations)
 - [Open Data Tools & APIs](#open-data-tools--apis)
 - [Transportation & Mobility](#transportation--mobility)
@@ -45,6 +46,7 @@ Environmental data and applications related to Berlin's natural spaces and susta
 - 🏊 [Badegewässer Berlin](https://www.berlin.de/lageso/gesundheit/gesundheitsschutz/badegewaesser/liste-der-badestellen/) - Official data from LAGeSo (State Office for Health and Social Affairs) providing daily updates on water quality at Berlin's public swimming locations. Includes information on water quality measurements, accessibility, and amenities at bathing spots across the city.
 - ⛲ [Berliner Trinkbrunnen Analyse](https://github.com/tifa365/berliner_trinkbrunnen_analyse) - Interactive maps analyzing Berlin's drinking fountains. Compares data from Berliner Wasserbetriebe (BWB) with OpenStreetMap, providing detailed analysis and visualization of public water fountain locations across the city.
 - ⚡ [Berliner EnergieCheckpoint](https://github.com/technologiestiftung/energiekarte) - Explorable map showing energy consumption of public buildings managed by BIM (Berliner Immobilienmanagement). Visualizes which buildings consume how much energy and potential savings through renovation, supporting Berlin's climate neutrality goal by 2045.
+- 🔋 [Energieatlas Berlin](https://energieatlas.berlin.de/) - Interactive energy map and 3D model of Berlin's ~550,000 buildings. Combines energy consumption, infrastructure, and renewable potentials (solar, geothermal, etc.). Models different planning scenarios to support Berlin's energy transition. Published by Senate administration.
 - 🌳 [Gieß den Kiez](https://github.com/technologiestiftung/giessdenkiez-de) - Interactive platform for citizen participation in watering Berlin's urban trees. Shows almost all street and park trees with water requirements, age, and species data. Users can adopt trees, mark them as watered, and track watering activities. Open-source project by Technologiestiftung Berlin, adapted by multiple cities.
 - 🌬️ [ODIS Luftqualität](https://github.com/technologiestiftung/odis-luftqualitaet) - Interactive map exploring Berlin's air quality based on 2024 yearly averages. Click locations or enter addresses to view pollution levels with improvement recommendations rated from "Very Low" to "High". Based on Luftschadstoffprognose data.
 
@@ -54,8 +56,19 @@ Environmental data and applications related to Berlin's natural spaces and susta
 
 Tools and data related to Berlin's government, parliament, and political processes.
 
+- 💰 [Berlin Haushaltskürzungen 2025](https://berlin-haushalt25.nand.io/) - Interactive visualization of Berlin's 2025 budget cuts. CDU/SPD planned ~3 billion € savings (7.4% of ~40.5 billion € budget) by cutting/reshuffling funds across departments. Shows where money is being reduced and who's affected (culture, social programs, etc.), making budget PDFs accessible.
 - 🎭 [Fairgnügen](https://github.com/technologiestiftung/fairgnuegen) - Searchable database of free or reduced-price cultural, sports, educational, and leisure activities for Berlin residents receiving social benefits. Features map-based discovery with filters for event location, discount type, and target groups. Promotes social participation through voluntary Berlin state services.
+- 📍 [KiezRadar](https://kiezradar.fokus.fraunhofer.de/) - Berlin's official participation platform mein.berlin.de feature that lets residents see and subscribe to new projects and plans (traffic calming, playground redesigns, housing, etc.) in a set radius around where they live or work. Makes local government projects transparent and interactive.
 - 🏛️ [Parla](https://github.com/technologiestiftung/parla-frontend) - AI-powered search tool for Berlin parliamentary documents. Makes 11,000+ written requests (Schriftliche Anfragen) and main committee procedures searchable using large language models. Provides answers with source references from the PARDOK parliamentary documentation system. Developed by CityLAB Berlin.
+
+------------------------------
+
+## Housing & Social
+
+Data and tools analyzing Berlin's housing market, rental prices, and social issues.
+
+- 🏘️ [AirBnb vs Berlin](https://airbnbvsberlin.de/) - Data-driven storytelling from FH Potsdam's UCLAB. Scraped Airbnb listings and host profiles to visualize where short-term rentals cluster, pricing patterns, and whether platforms pull long-term flats out of Berlin's housing market and push rents up.
+- 📊 [Mietenwatch](https://www.mietenwatch.de/) - Civic data project that scraped ~80,000 Berlin rental listings over ~18 months. Enter household income and size to see which neighborhoods you could afford (≤30% income to rent). Highlights how little housing is affordable for low/average earners and simulates policy effects like Mietendeckel.
 
 ------------------------------
 
@@ -63,9 +76,11 @@ Tools and data related to Berlin's government, parliament, and political process
 
 Interactive maps and visual applications for exploring Berlin.
 
+- 🕰️ [Berlin 1928](https://1928.tagesspiegel.de/) - Swipe map comparing aerial imagery of Berlin from 1928 with modern imagery (2015+). Tour locations like Potsdamer Platz or Tempelhof and slide between "then" and "now" to see how the city was destroyed, rebuilt, densified, or reimagined. By Tagesspiegel.
 - 🎨 [Kiezcolors](https://github.com/technologiestiftung/kiezcolors) - Interactive map-based tool that generates postcards showing land-use distribution in any Berlin neighborhood. Select a location and see how space is divided between categories like traffic, nature, water, residential, and recreation using ALKIS open data.
 - 📸 [Luftbilder Berlin](https://github.com/codeforberlin/luftbilder.berlin.codefor.de) - Web application displaying historical aerial photographs of Berlin from 2004-2022 (and 1928). Search by address to observe how the city has changed over time at any location. Data sourced from Berlin's FIS-Broker.
 - 🗺️ [OSM Berlin & Verkehrswende](https://github.com/osmberlin) - Organization hosting OpenStreetMap projects for sustainable transport and Berlin/Brandenburg. Includes parking data processing, traffic sign tools, street space maps, and Mapillary street coverage analysis. Active community with monthly meetups.
+- ⚔️ [Straßenkrieg](https://hanshack.com/strassenkrieg/) - Interactive map by Hans Hack tagging Berlin street names with war/military references — from battles and regiments to territorial conquests — showing how militarism and conflict history are embedded in everyday toponymy.
 - 🎄 [WeihnachtsmarktFinder](https://github.com/technologiestiftung/weihnachtsmarktkarte) - Interactive map of Christmas markets in Berlin with filters for opening times, entry fees, special attractions, and ÖPNV proximity. Includes [open dataset](https://daten.berlin.de/datensaetze/simple_search_wwwberlindesenwebservicemaerktefesteweihnachtsmaerkte) annually updated by Senate Department for Economics, Energy and Public Enterprises.
 
 ------------------------------
@@ -92,6 +107,15 @@ Data, maps, and tools related to Berlin's public transportation and mobility inf
 - 🚇 [awesome-berlin-transit](https://github.com/tifa365/awesome-berlin-transit) - Comprehensive collection of 87+ open-source tools, APIs, and datasets for Berlin public transport (VBB/BVG). Includes REST APIs, GTFS datasets, real-time monitoring tools, transit map generators, and much more by @derhuerst and others.
 - 🔄 [Berlin S-Bahn Ring GeoJSON](https://gist.github.com/derhuerst/9a3fca091cb1d48ad0b28743f86676c4) - GeoJSON data for the Berlin S-Bahn Ringbahn (circular railway line). Useful for mapping applications and geographic analysis of Berlin's iconic ring line.
 - 🎫 [Berliner Tarifkarte](https://github.com/technologiestiftung/tarifkarte) - Interactive map visualizing Berlin's public transport fare zones (A, B, C). Shows exactly where fare zone boundaries run and which stations are reachable with different ticket types. Built with Next.js using open VBB (Verkehrsverbund Berlin-Brandenburg) GTFS data.
+
+------------------------------
+
+## Urban Planning & Land Use
+
+Tools and data related to urban development, construction projects, and demographic changes.
+
+- 👶 [Babys in Berlin](https://interaktiv.morgenpost.de/babys-in-berlin/) - Interactive Berliner Morgenpost map showing highest density of babies (births per 1,000 residents) by Kiez and how it's shifted over the last decade. Surfaces hotspots like parts of Friedrichshain and Spandau, tied to demographic change, migration, and housing patterns.
+- 🏗️ [Hier Baut Berlin](https://hierbautberlin.de/) - Crowdsourced early-warning map for urban development. Scrapes Berlin's planning/construction announcement pages showing new building, zoning, roadwork and participation processes on one map. Email alerts for new projects near you. Open source, funded through Prototype Fund/BMBF.
 
 ------------------------------
 
