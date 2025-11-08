@@ -29,6 +29,7 @@ Data and projects documenting Berlin's vibrant street art and urban culture.
 - 🎵 [Berlin Club History](https://github.com/tifa365/berlin_club_history) - Dataset of 106 closed nightclubs and music venues from late 1960s through 2020 with GPS coordinates and historical context in CSV/GeoJSON.
 - 📚 [Bücherschränke Berlin](https://github.com/tifa365/buecherschraenke_berlin) - Scraper and dataset of ~57 public bookshelves across Berlin with GPS coordinates and descriptions in GeoJSON format.
 - 🧘 [Korkmännchen Berlin](https://github.com/tifa365/korkmaennchen_berlin) - Dataset of 220+ cork figure street yogi locations with GPS coordinates and 81 Wikimedia Commons photos.
+- 🏓 [Tischtennisplatten Berlin](https://github.com/tifa365/tischtennisplatten_berlin) - Collection of 2,710 ping pong table locations across Berlin with geographic coordinates in JSON format.
 
 ------------------------------
 
