@@ -82,7 +82,7 @@ Interactive maps and visual applications for exploring Berlin.
 
 - 🕰️ [Berlin 1928](https://1928.tagesspiegel.de/) - Swipe map comparing 1928 aerial imagery with modern photos showing how Berlin changed over time.
 - 🎨 [Kiezcolors](https://github.com/technologiestiftung/kiezcolors) - Tool generating postcards showing land-use distribution in any Berlin neighborhood using ALKIS data.
-- 🎪 [Kulturkataster Berlin](https://kulturkataster.berlin/) - Interactive map of 2,443 cultural locations across Berlin with 15 categories, search filters, and downloadable data.
+- 🎪 [Kulturkataster Berlin](https://kulturkataster.berlin/) - Interactive map of 2,443 cultural locations across Berlin with 15 categories and search filters (data available via email to info@kulturkataster.berlin, undocumented API endpoints exist).
 - 📸 [Luftbilder Berlin](https://github.com/codeforberlin/luftbilder.berlin.codefor.de) - Web app displaying historical aerial photographs from 2004-2022 searchable by address.
 - 🗺️ [OSM Berlin & Verkehrswende](https://github.com/osmberlin) - OpenStreetMap projects for sustainable transport including parking data, traffic signs, and street space maps.
 - ⚔️ [Straßenkrieg](https://hanshack.com/strassenkrieg/) - Interactive map tagging Berlin street names with war and military references.
