@@ -146,4 +146,4 @@ To add a new entry:
 
 This list is maintained by the community and aims to be a comprehensive resource for anyone interested in Berlin's open data ecosystem. Listing of a project/resource does not imply endorsement.
 
-Last updated: 2025-11-22
+Last updated: 2025-11-24
