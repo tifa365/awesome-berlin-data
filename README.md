@@ -112,6 +112,7 @@ Data, maps, and tools related to Berlin's public transportation and mobility inf
 - 🚇 [awesome-berlin-transit](https://github.com/tifa365/awesome-berlin-transit) - Collection of 87+ open-source tools, APIs, and datasets for Berlin public transport (VBB/BVG).
 - 🔄 [Berlin S-Bahn Ring GeoJSON](https://gist.github.com/derhuerst/9a3fca091cb1d48ad0b28743f86676c4) - GeoJSON data for the Berlin S-Bahn Ringbahn circular railway line.
 - 🎫 [Berliner Tarifkarte](https://github.com/technologiestiftung/tarifkarte) - Interactive map of Berlin's public transport fare zones using VBB GTFS data.
+- 🚊 [Siemensbahn Berlin](https://github.com/tifa365/siemensbahn-berlin) - OSM data extractor for the Siemensbahn railway line with exports to GeoJSON, Shapefile, and interactive HTML map (45 way segments).
 - 📶 [WLAN an Berliner Bahnhöfen: Wenn Daten auf der Strecke bleiben](https://www.linkedin.com/pulse/wlan-berliner-bahnh%C3%B6fen-wenn-daten-auf-der-strecke-tim-fangmeyer-c0tpf/) - Article analyzing WiFi coverage at Berlin stations with scraped station data.
 
 ------------------------------
