@@ -95,7 +95,7 @@ Interactive maps and visual applications for exploring Berlin.
 Tools, APIs, and applications for accessing and visualizing Berlin's open data.
 
 - 🗂️ [Berlin Open Data Portal](https://daten.berlin.de/) - Official portal with thousands of datasets from Berlin's governmental departments in CSV, JSON, XML formats with APIs.
-- 📱 [Berlin Open Data Applications RSS](https://daten.berlin.de/anwendungen/rss.xml) - RSS feed of applications built with Berlin open data including TopoExport, Hallo Baum, Kiezcolors, and more.
+- 📱 [Berlin Open Data Applications RSS](https://daten.berlin.de/anwendungen/rss.xml) - RSS feed of applications built with Berlin open data including TopoExport, Hallo Baum, Kiezcolors, and more (mostly outdated).
 - ✅ [Berlin Open Data Metadata Quality Assessment](https://github.com/tifa365/berlin_opendata_assesment) - Python tool evaluating metadata quality using FAIR principles for Berlin's Open Data Portal.
 - 🚀 [Berlin Open Data Starter Code](https://github.com/tifa365/starter-code-open_data_berlin) - Preconfigured Python/R notebooks for all CSV datasets with metadata and one-click Google Colab access.
 - 📊 [Kerndatensätze Monitor](https://github.com/technologiestiftung/kerndatensaetze-monitor) - Tracks ~100 core datasets identified as most valuable for Berlin's Open Data Strategy.
