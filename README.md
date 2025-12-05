@@ -39,6 +39,7 @@ Data and projects documenting Berlin's vibrant street art and urban culture.
 Data and tools related to schools and education in Berlin (and Germany).
 
 - 🏫 [jedeschule-scraper](https://github.com/Datenschule/jedeschule-scraper) - Scrapers for German school data across all federal states with unified format and API at jedeschule.codefor.de.
+- 🎒 [Kita Navigator Berlin](https://kita-navigator.berlin.de/) - Official Berlin daycare search with 2,856 Kitas including availability status, coordinates, and [OpenAPI specification](https://github.com/tifa365/kitas_berlin).
 - 📡 [Internet@Schule in Berlin](https://www.tursics.de/story/schule-breitband-2020/) - Interactive maps showing internet connection speeds at Berlin schools by district (2020, outdated), could be updated with [dataset](https://daten.berlin.de/datensaetze/breitband-ausbau-der-berliner-schulen-1430033).
 
 ------------------------------
