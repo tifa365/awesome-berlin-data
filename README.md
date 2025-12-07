@@ -62,6 +62,7 @@ Environmental data and applications related to Berlin's natural spaces and susta
 Tools and data related to Berlin's government, parliament, and political processes.
 
 - 💰 [Berlin Haushaltskürzungen 2025](https://berlin-haushalt25.nand.io/) - Interactive visualization of Berlin's 2025 budget cuts showing ~3 billion € savings across departments.
+- 💼 [Berlin Karriereportal](https://www.karriereportal-stellen.berlin.de/) - Official job portal for Berlin administration positions with unofficial [OpenAPI specification](https://github.com/tifa365/berlin-karriereportal-api-schema) documenting search, filter, and RSS endpoints.
 - 📊 [Digitalisierungs-Dashboard](https://digitalisierungs-dashboard.berlin.de/) - Live dashboard tracking digitalization progress of 6,800+ Berlin administrative services with OZG maturity levels and [OpenAPI schema](https://github.com/tifa365/digitalisierungs-dashboard-berlin-scraper).
 - 🎭 [Fairgnügen](https://github.com/technologiestiftung/fairgnuegen) - Searchable database of free/reduced-price cultural and leisure activities for Berlin social benefit recipients.
 - 🏛️ [Parla](https://github.com/technologiestiftung/parla-frontend) - AI-powered search tool for 11,000+ Berlin parliamentary documents and committee procedures.
@@ -146,4 +147,4 @@ To add a new entry:
 
 This list is maintained by the community and aims to be a comprehensive resource for anyone interested in Berlin's open data ecosystem. Listing of a project/resource does not imply endorsement.
 
-Last updated: 2025-12-05
+Last updated: 2025-12-07
