@@ -61,6 +61,7 @@ Environmental data and applications related to Berlin's natural spaces and susta
 
 Tools and data related to Berlin's government, parliament, and political processes.
 
+- 📰 [Amtsblatt Berlin Archiv](https://github.com/tifa365/amtsblatt-berlin-scraper) - PDF archive of Berlin's official gazette with Wayback Machine fallback (berlin.de only keeps last 6 issues).
 - 💰 [Berlin Haushaltskürzungen 2025](https://berlin-haushalt25.nand.io/) - Interactive visualization of Berlin's 2025 budget cuts showing ~3 billion € savings across departments.
 - 💼 [Berlin Karriereportal](https://www.karriereportal-stellen.berlin.de/) - Official job portal for Berlin administration positions with unofficial [OpenAPI specification](https://github.com/tifa365/berlin-karriereportal-api-schema) documenting search, filter, and RSS endpoints.
 - 📊 [Digitalisierungs-Dashboard](https://digitalisierungs-dashboard.berlin.de/) - Live dashboard tracking digitalization progress of 6,800+ Berlin administrative services with OZG maturity levels and [OpenAPI schema](https://github.com/tifa365/digitalisierungs-dashboard-berlin-scraper).
@@ -84,6 +85,7 @@ Data and tools analyzing Berlin's housing market, rental prices, and social issu
 
 Interactive maps and visual applications for exploring Berlin.
 
+- 📊 [awesome-berlin-datenjournalismus](https://github.com/tifa365/awesome-berlin-datenjournalismus) - Curated list of data journalism projects about Berlin from Tagesspiegel, Morgenpost and others.
 - 🕰️ [Berlin 1928](https://1928.tagesspiegel.de/) - Swipe map comparing 1928 aerial imagery with modern photos showing how Berlin changed over time.
 - 🎨 [Kiezcolors](https://github.com/technologiestiftung/kiezcolors) - Tool generating postcards showing land-use distribution in any Berlin neighborhood using ALKIS data.
 - 🎪 [Kulturkataster Berlin](https://kulturkataster.berlin/) - Interactive map of roughly 2.5k cultural locations across Berlin with 15 categories and search filters (data available via email to info@kulturkataster.berlin, undocumented API endpoints exist).
@@ -124,8 +126,7 @@ Data, maps, and tools related to Berlin's public transportation and mobility inf
 
 Tools and data related to urban development, construction projects, and demographic changes.
 
-- 👶 [Babys in Berlin](https://interaktiv.morgenpost.de/babys-in-berlin/) - Interactive map showing baby density by Kiez and demographic shifts over the last decade.
-- 🏗️ [Hier Baut Berlin](https://hierbautberlin.de/) - Crowdsourced map scraping Berlin's planning announcements with email alerts for new projects.
+- 🏗️ [Hier Baut Berlin](https://web.archive.org/web/20241208091442/https://hierbautberlin.de/) - (Outdated) Crowdsourced map scraping Berlin's planning announcements with email alerts for new projects.
 
 ------------------------------
 
