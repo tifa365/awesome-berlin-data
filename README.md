@@ -65,6 +65,7 @@ Tools and data related to Berlin's government, parliament, and political process
 - 💼 [Berlin Karriereportal](https://www.karriereportal-stellen.berlin.de/) - Official job portal for Berlin administration positions with unofficial [OpenAPI specification](https://github.com/tifa365/berlin-karriereportal-api-schema) documenting search, filter, and RSS endpoints.
 - 📊 [Digitalisierungs-Dashboard](https://digitalisierungs-dashboard.berlin.de/) - Live dashboard tracking digitalization progress of 6,800+ Berlin administrative services with OZG maturity levels and [OpenAPI schema](https://github.com/tifa365/digitalisierungs-dashboard-berlin-scraper).
 - 🎭 [Fairgnügen](https://github.com/technologiestiftung/fairgnuegen) - Searchable database of free/reduced-price cultural and leisure activities for Berlin social benefit recipients.
+- ⚖️ [Gesetze Berlin API](https://github.com/tifa365/berliner-rechtsprechungsdatenbank-scraper) - Unofficial API documentation for Berlin's legal database with 78k+ laws and court decisions.
 - 📜 [Parlamentsdokumentation Open Data](https://www.parlament-berlin.de/dokumente/open-data) - XML metadata of parliamentary documents (Drucksachen, Plenarprotokolle, Ausschussprotokolle, Schriftliche Anfragen) since 1989, updated daily, with [XML schema documentation](https://www.parlament-berlin.de/media/download/4322).
 - 🏛️ [Parla](https://github.com/technologiestiftung/parla-frontend) - AI-powered search tool for 11,000+ Berlin parliamentary documents and committee procedures.
 
