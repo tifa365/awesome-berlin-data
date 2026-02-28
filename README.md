@@ -105,6 +105,7 @@ Tools, APIs, and applications for accessing and visualizing Berlin's open data.
 - ✅ [Berlin Open Data Metadata Quality Assessment](https://github.com/tifa365/berlin_opendata_assesment) - Python tool evaluating metadata quality using FAIR principles for Berlin's Open Data Portal.
 - 🚀 [Berlin Open Data Starter Code](https://github.com/tifa365/starter-code-open_data_berlin) - Preconfigured Python/R notebooks for all CSV datasets with metadata and one-click Google Colab access.
 - 📊 [Kerndatensätze Monitor](https://github.com/technologiestiftung/kerndatensaetze-monitor) - Tracks ~100 core datasets identified as most valuable for Berlin's Open Data Strategy.
+- 🏙️ [Berlin Open Data MCP Server](https://github.com/tifa365/berlin-opendata-mcp) - MCP Server for accessing Berlin's open data with 6 tools for CKAN catalog search, analysis, and exploration of 2,500+ datasets across 25 categories.
 - 🤖 [DCAT-AP.de AI Analyzer](https://github.com/tifa365/dcat_ap_de_ai-analyzer) - AI-powered metadata quality analyzer for DCAT catalogs using LLMs.
 - 🔍 [ODIS GeoExplorer](https://github.com/technologiestiftung/odis-geoexplorer) - AI-powered search for Berlin's geodata using natural language queries.
 - 🃏 [ODIS Open Data Card Game](https://github.com/technologiestiftung/odis-cardgame) - Top Trumps-style card game featuring Berlin's 58 administrative areas with open data categories.
