@@ -63,6 +63,7 @@ Tools and data related to Berlin's government, parliament, and political process
 
 - 📰 [Amtsblatt Berlin Archiv](https://github.com/tifa365/amtsblatt-berlin-scraper) - PDF archive of Berlin's official gazette with Wayback Machine fallback (berlin.de only keeps last 6 issues).
 - 💰 [Berlin Haushaltskürzungen 2025](https://berlin-haushalt25.nand.io/) - Interactive visualization of Berlin's 2025 budget cuts showing ~3 billion € savings across departments.
+- 🏙️ [Berlin Budget Skyline](https://tifa365.github.io/berlin-budget-skyline/) - Turns Berlin's public budget lines into a navigable 3D skyline where each building represents a budget item, with search, filtering, detail panels, and links back to the official budget visualization. [Source code](https://github.com/tifa365/berlin-budget-skyline).
 - 💼 [Berlin Karriereportal](https://www.karriereportal-stellen.berlin.de/) - Official job portal for Berlin administration positions with unofficial [OpenAPI specification](https://github.com/tifa365/berlin-karriereportal-api-schema) documenting search, filter, and RSS endpoints.
 - 📊 [Digitalisierungs-Dashboard](https://digitalisierungs-dashboard.berlin.de/) - Live dashboard tracking digitalization progress of 6,800+ Berlin administrative services with OZG maturity levels and [OpenAPI schema](https://github.com/tifa365/digitalisierungs-dashboard-berlin-scraper).
 - 🎭 [Fairgnügen](https://github.com/technologiestiftung/fairgnuegen) - Searchable database of free/reduced-price cultural and leisure activities for Berlin social benefit recipients.
