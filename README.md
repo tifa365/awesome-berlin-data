@@ -87,6 +87,7 @@ Interactive maps and visual applications for exploring Berlin.
 
 - 📊 [awesome-berlin-datenjournalismus](https://github.com/tifa365/awesome-berlin-datenjournalismus) - Curated list of data journalism projects about Berlin from Tagesspiegel, Morgenpost and others.
 - 🕰️ [Berlin 1928](https://1928.tagesspiegel.de/) - Swipe map comparing 1928 aerial imagery with modern photos showing how Berlin changed over time.
+- 🛣️ [Berliner Strassen](https://github.com/tifa365/Berliner_Strassen) - Scrollytelling data journalism project about Berlin street names, memory, and urban history built with MapLibre and Scrollama using processed street and address GeoJSON.
 - 🎨 [Kiezcolors](https://github.com/technologiestiftung/kiezcolors) - Tool generating postcards showing land-use distribution in any Berlin neighborhood using ALKIS data.
 - 🎪 [Kulturkataster Berlin](https://kulturkataster.berlin/) - Interactive map of roughly 2.5k cultural locations across Berlin with 15 categories and search filters (data available via email to info@kulturkataster.berlin, undocumented API endpoints exist).
 - 📸 [Luftbilder Berlin](https://github.com/codeforberlin/luftbilder.berlin.codefor.de) - Web app displaying historical aerial photographs from 2004-2022 searchable by address.
@@ -151,4 +152,4 @@ To add a new entry:
 
 This list is maintained by the community and aims to be a comprehensive resource for anyone interested in Berlin's open data ecosystem. Listing of a project/resource does not imply endorsement.
 
-Last updated: 2025-12-07
+Last updated: 2026-03-30
