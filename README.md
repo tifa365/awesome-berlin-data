@@ -62,7 +62,7 @@ Environmental data and applications related to Berlin's natural spaces and susta
 Tools and data related to Berlin's government, parliament, and political processes.
 
 - 📰 [Amtsblatt Berlin Archiv](https://github.com/tifa365/amtsblatt-berlin-scraper) - PDF archive of Berlin's official gazette with Wayback Machine fallback (berlin.de only keeps last 6 issues).
-- 🗳️ [awesome-berlinwahl-2026](https://github.com/tifa365/berlinwahl-abgeordnetenhaus) - Curated list of official datasets, maps, timelines, FAQs, and election-boundary resources for the Berlin 2026 Abgeordnetenhaus and BVV elections.
+- 🗳️ [awesome-berlinwahl-2026](https://github.com/tifa365/awesome-berlinwahl-2026) - Curated list of official datasets, maps, timelines, FAQs, and election-boundary resources for the Berlin 2026 Abgeordnetenhaus and BVV elections.
 - 💰 [Berlin Haushaltskürzungen 2025](https://berlin-haushalt25.nand.io/) - Interactive visualization of Berlin's 2025 budget cuts showing ~3 billion € savings across departments.
 - 🏙️ [Berlin Budget Skyline](https://tifa365.github.io/berlin-budget-skyline/) - Turns Berlin's public budget lines into a navigable 3D skyline where each building represents a budget item, with search, filtering, detail panels, and links back to the official budget visualization. [Source code](https://github.com/tifa365/berlin-budget-skyline).
 - 💼 [Berlin Karriereportal](https://www.karriereportal-stellen.berlin.de/) - Official job portal for Berlin administration positions with unofficial [OpenAPI specification](https://github.com/tifa365/berlin-karriereportal-api-schema) documenting search, filter, and RSS endpoints.
