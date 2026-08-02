@@ -134,6 +134,12 @@ Tools and data related to urban development, construction projects, and demograp
 
 ------------------------------
 
+## Related Lists
+
+- 🥨 [awesome-munich-data](https://github.com/tifa365/awesome-munich-data) - Sister list following the same structure, collecting open data sources, APIs, tools, and applications for Munich.
+
+------------------------------
+
 ## License
 
 [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
@@ -154,4 +160,4 @@ To add a new entry:
 
 This list is maintained by the community and aims to be a comprehensive resource for anyone interested in Berlin's open data ecosystem. Listing of a project/resource does not imply endorsement.
 
-Last updated: 2026-03-30
+Last updated: 2026-08-02
