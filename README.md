@@ -72,6 +72,7 @@ Tools and data related to Berlin's government, parliament, and political process
 - ⚖️ [Gesetze Berlin API](https://github.com/tifa365/berliner-rechtsprechungsdatenbank-scraper) - Unofficial API documentation for Berlin's legal database with 78k+ laws and court decisions.
 - 📜 [Parlamentsdokumentation Open Data](https://www.parlament-berlin.de/dokumente/open-data) - XML metadata of parliamentary documents (Drucksachen, Plenarprotokolle, Ausschussprotokolle, Schriftliche Anfragen) since 1989, updated daily, with [XML schema documentation](https://www.parlament-berlin.de/media/download/4322).
 - 🏛️ [Parla](https://github.com/technologiestiftung/parla-frontend) - AI-powered search tool for 11,000+ Berlin parliamentary documents and committee procedures.
+- 📋 [Zuständigkeitskatalog Berlin API](https://github.com/tifa365/zustaendigkeitskatalog-berlin) - Unofficial OpenAPI specification for Berlin's official catalogue of 2,429 administrative tasks, documenting all filters and export formats, the rate limit, and the semantic encoding of the Laufende Nummer.
 
 ------------------------------
 
@@ -161,4 +162,4 @@ To add a new entry:
 
 This list is maintained by the community and aims to be a comprehensive resource for anyone interested in Berlin's open data ecosystem. Listing of a project/resource does not imply endorsement.
 
-Last updated: 2026-08-02
+Last updated: 2026-08-10
