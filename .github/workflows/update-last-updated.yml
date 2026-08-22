@@ -1,0 +1,52 @@
+name: Update last-updated date
+
+# Keeps the "Last updated:" line at the bottom of README.md in sync with the
+# date of the most recent commit that actually changed the README.
+#
+# The date is read from git history rather than from the clock, so the line
+# always reflects a real content change and a manual run is a no-op when the
+# line is already correct.
+
+on:
+  push:
+    branches: [main]
+    paths: ['README.md']
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-last-updated
+  cancel-in-progress: false
+
+jobs:
+  update-date:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v7
+        with:
+          fetch-depth: 0
+
+      - name: Sync the date line with the last README commit
+        run: |
+          set -euo pipefail
+          date=$(git log -1 --format=%cs -- README.md)
+          if [ -z "$date" ]; then
+            echo "No commit touching README.md found; nothing to do."
+            exit 0
+          fi
+          sed -i -E "s/^Last updated: [0-9]{4}-[0-9]{2}-[0-9]{2}$/Last updated: $date/" README.md
+          echo "Target date: $date"
+
+      - name: Commit if the line changed
+        run: |
+          set -euo pipefail
+          if git diff --quiet -- README.md; then
+            echo "Date already current; nothing to commit."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -q -m "Update the last-updated date" -- README.md
+          git push
